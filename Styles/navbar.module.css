@@ -1,0 +1,49 @@
+.navbar {
+    width: 100%;
+    height: fit-content;
+}
+
+.leftSide {
+    display: flex;
+    align-items: center;
+    gap: 0 20px;
+    padding-left: 20px;
+}
+.leftSide Image:last-child{
+object-fit: cover;
+}
+
+.searchBar {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(211, 210, 210);
+    /* border-radius: 10px; */
+    height: 40px;
+    width: 37em;
+    overflow: hidden;
+}
+
+.searchBarInput {
+    height: 100%;
+    padding: 0px 15px;
+}
+
+.searchBarInput input {
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+}
+
+.searchButton {
+    padding: 0 30px;
+}
+
+.voiceButton {
+    border-radius: 50%;
+    padding: 11px;
+    height: 40px;
+    width: 40px;
+    margin-left: 12px;
+}
+

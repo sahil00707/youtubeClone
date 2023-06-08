@@ -1,0 +1,154 @@
+{
+    "SidebarData": [
+        {
+            "SideBarSectionHeading": "",
+            "Items": [
+                {
+                    "icon":"/sidebarIcons/home.png",
+                    "Heading":"Home"
+                },
+                {
+                    "icon":"/sidebarIcons/video.png",
+                    "Heading":"Shorts"
+                },
+                {
+                    "icon":"/sidebarIcons/subscribe.png",
+                    "Heading":"Subscriptions"
+                }
+            ]
+        },
+        {
+            "SideBarSectionHeading": "",
+            "Items": [
+                {
+                    "icon":"/sidebarIcons/library.png",
+                    "Heading":"Library"
+                },
+                {
+                    "icon":"/sidebarIcons/history.png",
+                    "Heading":"History"
+                },
+                {
+                    "icon":"/sidebarIcons/play.png",
+                    "Heading":"Your Videos"
+                },
+                {
+                    "icon":"/sidebarIcons/library.png",
+                    "Heading":"Watch Later"
+                },
+                {
+                    "icon":"/sidebarIcons/paper-clip.png",
+                    "Heading":"Your Clips"
+                },
+                {
+                    "icon":"/sidebarIcons/like.png",
+                    "Heading":"Your Liked Videos"
+                }
+            ]
+        },
+        {
+            "SideBarSectionHeading": "Subscription",
+            "Items": [
+                {
+                    "icon":"/images/thumbnail-10.jpg",
+                    "Heading":"T-Series"
+                },
+                {
+                    "icon":"/images/thumbnail-1.jpg",
+                    "Heading":"YouTube Movies"
+                },
+                {
+                    "icon":"/images/thumbnail-7.jpg",
+                    "Heading":"SET India"
+                },
+                {
+                    "icon":"/images/thumbnail-5.jpg",
+                    "Heading":"MrBeast"
+                },
+                {
+                    "icon":"/images/thumbnail-4.jpg",
+                    "Heading":"Music"
+                },
+                {
+                    "icon":"/images/thumbnail-3.jpg",
+                    "Heading":"PewDiePie"
+                },
+                {
+                    "icon":"/images/thumbnail-2.jpg",
+                    "Heading":"Like Nastya"
+                },
+                {
+                    "icon":"/images/thumbnail-9.jpg",
+                    "Heading":"Vlad And Niki"
+                },
+                {
+                    "icon":"/images/thumbnail-8.jpg",
+                    "Heading":"WWE"
+                }
+            ]
+        },
+        {
+            "SideBarSectionHeading": "Explore",
+            "Items": [
+                {
+                    "icon":"/sidebarIcons/fire.png",
+                    "Heading":"Trending"
+                },
+                {
+                    "icon":"/sidebarIcons/bag.png",
+                    "Heading":"Shopping"
+                },
+                {
+                    "icon":"/sidebarIcons/musical-note.png",
+                    "Heading":"Music"
+                },
+                {
+                    "icon":"/sidebarIcons/movie-reel.png",
+                    "Heading":"Movies"
+                },
+                {
+                    "icon":"/sidebarIcons/live.png",
+                    "Heading":"Live"
+                },
+                {
+                    "icon":"/sidebarIcons/console.png",
+                    "Heading":"Gaming"
+                },
+                {
+                    "icon":"/sidebarIcons/newspaper-folded.png",
+                    "Heading":"News"
+                },
+                {
+                    "icon":"/sidebarIcons/running.png",
+                    "Heading":"Sports"
+                },
+                {
+                    "icon":"/sidebarIcons/idea.png",
+                    "Heading":"Learning"
+                }
+            ]
+        },
+        {
+            "SideBarSectionHeading": "",
+            "Items": [
+                {
+                    "icon":"/sidebarIcons/setting.png",
+                    "Heading":"Settings"
+                },
+                {
+                    "icon":"/sidebarIcons/flag.png",
+                    "Heading":"Report History"
+                },
+                {
+                    "icon":"/sidebarIcons/question.png",
+                    "Heading":"Help"
+                },
+                {
+                    "icon":"/sidebarIcons/feedback.png",
+                    "Heading":"Send Feedback"
+                }
+            ]
+        }   
+        
+    ]
+}

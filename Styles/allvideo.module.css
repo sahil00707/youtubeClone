@@ -1,0 +1,31 @@
+.video {
+    width: 350px;
+    height: fit-content;
+}
+
+.thumbnail {
+    height: 200px;
+}
+
+.videoProfilePic {
+    height: 40px;
+    width: 40px;
+
+}
+
+.profoleImage {
+    border-radius: 50%;
+    object-fit: fill;
+    height: 40px;
+    width: 40px;
+}
+
+.selectedTag {
+    background-color: black !important;
+    color: white;
+}
+
+.SmallVideoSection {
+    width: 100%;
+    height: 130px;
+}

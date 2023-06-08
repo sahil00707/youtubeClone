@@ -1,0 +1,125 @@
+{
+    "tagsList": [
+      {
+        "tag": "technology",
+        "index":"1"
+      },
+      {
+        "tag": "music",
+        "index":"2"
+      },
+      {
+        "tag": "gaming",
+        "index":"3"
+      },
+      {
+        "tag": "fashion",
+        "index":"4"
+      },
+      {
+        "tag": "beauty",
+        "index":"5"
+      },
+      {
+        "tag": "travel",
+        "index":"6"
+      },
+      {
+        "tag": "food",
+        "index":"7"
+      },
+      {
+        "tag": "comedy",
+        "index":"8"
+      },
+      {
+        "tag": "vlogs",
+        "index":"9"
+      },
+      {
+        "tag": "fitness",
+        "index":"10"
+      },
+      {
+        "tag": "education",
+        "index":"11"
+      },
+      {
+        "tag": "entertainment",
+        "index":"12"
+      },
+      {
+        "tag": "lifestyle",
+        "index":"13"
+      },
+      {
+        "tag": "sports",
+        "index":"14"
+      },
+      {
+        "tag": "news",
+        "index":"15"
+      },
+      {
+        "tag": "diy",
+        "index":"16"
+      },
+      {
+        "tag": "movies",
+        "index":"17"
+      },
+      {
+        "tag": "cars",
+        "index":"18"
+      },
+      {
+        "tag": "cooking",
+        "index":"19"
+      },
+      {
+        "tag": "dance",
+        "index":"20"
+      },
+      {
+        "tag": "photography",
+        "index":"21"
+      },
+      {
+        "tag": "art",
+        "index":"22"
+      },
+      {
+        "tag": "science",
+        "index":"23"
+      },
+      {
+        "tag": "pets",
+        "index":"24"
+      },
+      {
+        "tag": "health",
+        "index":"25"
+      },
+      {
+        "tag": "business",
+        "index":"26"
+      },
+      {
+        "tag": "books",
+        "index":"27"
+      },
+      {
+        "tag": "parenting",
+        "index":"28"
+      },
+      {
+        "tag": "motivation",
+        "index":"29"
+      },
+      {
+        "tag": "history",
+        "index":"30"
+      }
+    ]
+  }
+  
